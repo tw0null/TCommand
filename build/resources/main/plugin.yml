@@ -1,0 +1,16 @@
+name: wjplugin
+version: '1.0-SNAPSHOT'
+main: io.github.imleooh.wjplugin.Wjplugin
+api-version: '1.21'
+libraries:
+  - io.github.imleooh:invfx-core:3.3.3
+commands:
+  t:
+    description: Tool
+    usage: /t
+  addtp:
+    description: 바로가기를 추가합니다.
+    usage: /addtp
+  rmtp:
+    description: 바로가기를 삭제합니다
+    usage: /rmtp
