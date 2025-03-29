@@ -1,4 +1,9 @@
+
 # TCommand
+![Static Badge](https://img.shields.io/badge/Minecraft_version-1.21.4-green)
+![Static Badge](https://img.shields.io/badge/Kotlin-2.1.20-blue)
+![Static Badge](https://img.shields.io/badge/Java-21-orange)
+
 이 플러그인은 `/t` 명령어로 여러 기능을 실행할수 있게 해줍니다.
 
 ### 기능
