@@ -5,6 +5,7 @@ plugins {
 
 group = "io.github.leooh1"
 version = "1.0-SNAPSHOT"
+val outputFilePath: String by project
 
 repositories {
     mavenCentral()
@@ -33,7 +34,7 @@ tasks.build {
 }
 
 tasks.jar {
-    destinationDirectory.set(file("/Users/leooh/Desktop/mcserver/plugins"))
+    destinationDirectory.set(file(outputFilePath))
 }
 
 tasks.processResources {
