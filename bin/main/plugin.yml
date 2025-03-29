@@ -1,6 +1,6 @@
-name: wjplugin
+name: TCommand
 version: '1.0-SNAPSHOT'
-main: io.github.zeettn.wjplugin.Wjplugin
+main: io.github.zeettn.tcommand.Tcommand
 api-version: '1.21'
 libraries:
   - io.github.zeettn:invfx-core:3.3.3

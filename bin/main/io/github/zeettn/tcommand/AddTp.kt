@@ -1,4 +1,4 @@
-package io.github.zeettn.wjplugin
+package io.github.zeettn.tcommand
 
 import org.bukkit.Location
 import org.bukkit.command.Command

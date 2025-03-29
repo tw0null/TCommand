@@ -1,4 +1,4 @@
-package io.github.zeettn.wjplugin
+package io.github.zeettn.tcommand
 
 import io.github.zeettn.invfx.InvFX.frame
 import io.github.zeettn.invfx.openFrame
@@ -9,7 +9,6 @@ import org.bukkit.Location
 import org.bukkit.Material
 import org.bukkit.entity.Player
 import org.bukkit.inventory.ItemStack
-import org.bukkit.inventory.meta.ItemMeta
 import org.bukkit.plugin.java.JavaPlugin
 import saveDataToYAML
 
