@@ -1,1 +1,1 @@
-rootProject.name = "wjplugin"
+rootProject.name = "tcommand"

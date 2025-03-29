@@ -1,9 +1,9 @@
-name: wjplugin
+name: TCommand
 version: '1.0-SNAPSHOT'
-main: io.github.imleooh.wjplugin.Wjplugin
+main: io.github.zeettn.tcommand.TCommand
 api-version: '1.21'
 libraries:
-  - io.github.imleooh:invfx-core:3.3.3
+  - io.github.zeettn:invfx-core:3.3.3
 commands:
   t:
     description: Tool

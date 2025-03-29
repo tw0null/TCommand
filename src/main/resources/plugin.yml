@@ -1,6 +1,6 @@
 name: TCommand
 version: '1.0-SNAPSHOT'
-main: io.github.zeettn.tcommand.Tcommand
+main: io.github.zeettn.tcommand.TCommand
 api-version: '1.21'
 libraries:
   - io.github.zeettn:invfx-core:3.3.3
